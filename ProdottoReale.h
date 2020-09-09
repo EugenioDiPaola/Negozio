@@ -18,12 +18,13 @@ public:
 	void quantitaSet(int);
 	void codiceSet(int);
 
-	virtual std::string nomeGet() const;
 	double prezzoGet() const;
 	int quantitaGet() const;
 	int codiceGet() const;
 
+	virtual std::string nomeGet() const;
 	virtual void print() const;
+	
 	virtual void carrelloPrint() const;
 };
 
