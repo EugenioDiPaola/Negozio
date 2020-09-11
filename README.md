@@ -1,6 +1,6 @@
 # Negozio
 
-Implementazione in C++ a terminale  di un negozio in cui l'utente può consultare un catalogo (estendibile) di oggetti in vendita, aggiungerli al proprio carrello e rimuoverli dallo stesso, visualizzare il carrello, acquistare gli oggetti nel carrello etc; esercizio da presentare e commentare all'esame orale di Teniche di Calcolo della Fisica e assegnato allo scopo di comprendere meglio il concetto di ereditarietà.  
+Implementazione a oggetti in C++ a terminale  di un negozio in cui l'utente può consultare un catalogo (estendibile) di oggetti in vendita, aggiungerli al proprio carrello e rimuoverli dallo stesso, visualizzare il carrello, acquistare gli oggetti nel carrello etc; esercizio da presentare e commentare all'esame orale di Teniche di Calcolo della Fisica e assegnato allo scopo di comprendere meglio il concetto di ereditarietà.  
   
 Di seguito alcune immagini del programma in esecuzione (cliccare sulle immagini per ingrandire).  
 
