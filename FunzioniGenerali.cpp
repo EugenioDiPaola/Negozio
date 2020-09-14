@@ -3,7 +3,7 @@
 #include<cctype> 
 #include<vector>
 
-#include"FunzioniGenerali.h" 
+#include"FunzioniGenerali*.h" 
 
 void consultaCatalogo(Factory * FACTORY_PTR, char & UTENTE)
 {
